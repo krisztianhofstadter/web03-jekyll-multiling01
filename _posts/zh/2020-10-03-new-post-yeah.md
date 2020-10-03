@@ -2,6 +2,7 @@
 title: 是的，新帖：)
 description: '您好，正在尝试。'
 lang: zh
+categories: zh
 image: /files/images/alien-crop-circle.jpg
 ---
 
